@@ -1,0 +1,25 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #f9fafb;
+  color: #111;
+}
+
+button {
+  padding: 6px 10px;
+  border-radius: 6px;
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0059c1;
+}
+
+canvas {
+  background: white;
+  border-radius: 8px;
+}
